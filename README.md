@@ -15,6 +15,6 @@
 
 ## 🌱 这是我的Github项目开发概要
 <div style="width: 100vw">
-  <img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=XiaoLFeng&show_icons=true" alt="">
-  <img style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoLFeng&layout=compact&hide=html,css,javascript" alt="">
+  <img style="height:300px" src="https://github-readme-stats.vercel.app/api?username=XiaoLFeng&show_icons=true" alt="">
+  <img style="height:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoLFeng&layout=compact&hide=html,css,javascript" alt="">
 </div>
