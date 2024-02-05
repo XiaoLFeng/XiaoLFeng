@@ -28,9 +28,9 @@
 
 ## 📇 我的联系方法
 
-- ✉️[ Email  ] [gm@x-lf.cn](mailto:gm@x-lf.cn)
-- 🐧[   QQ   ] [1144939537](https://wpa.qq.com/msgrd?v=3&uin=1144939537&site=qq&menu=yes)
-- 🐦[Twitter ] [@lfeng_xiao](https://twitter.com/lfeng_xiao)
+- ✉️[Email] [gm@x-lf.cn](mailto:gm@x-lf.cn)
+- 🐧[QQ] [1144939537](https://wpa.qq.com/msgrd?v=3&uin=1144939537&site=qq&menu=yes)
+- 🐦[Twitter] [@lfeng_xiao](https://twitter.com/lfeng_xiao)
 - 📺[Bilibili] [筱锋xiao_lfeng](https://space.bilibili.com/244321572)
 
 ## 🌱 这是我的Github项目开发概要
