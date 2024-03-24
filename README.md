@@ -19,8 +19,8 @@
 
 ## 项目开发概要
 
-<div>
-    <img src="https://api.githubtrends.io/user/svg/XiaoLFeng/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="width: 400px;margin: 0 auto">
+<div style="width: 100vh">
+    <img src="https://api.githubtrends.io/user/svg/XiaoLFeng/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="margin: 0 auto">
 </div>
 
 ### 更多项目
