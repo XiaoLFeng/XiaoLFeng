@@ -32,7 +32,8 @@
 ## 项目开发概要
 
 <div align="center">
-    <img src="https://api.githubtrends.io/user/svg/XiaoLFeng/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="margin: 0 auto">
+    <img src="https://api.githubtrends.io/user/svg/XiaoLFeng/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="height: 200px">
+    <img src="https://github-readme-stats.vercel.app/api?username=XiaoLFeng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 200px">
 </div>
 
 ### 更多项目
