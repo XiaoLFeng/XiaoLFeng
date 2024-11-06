@@ -17,20 +17,10 @@
 > 你好哦，我是XiaoLFeng（你可以叫我“筱锋”），目前是一名学生，正在积极学习并迈向软件工程师的目标。我对软件工程充满热情，专注于前端开发、后端开发、全栈开发以及项目设计等方向。平时喜欢探索新技术，解决复杂问题。
 
 ### 技术栈
-![My Skills](https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex)
-
-
-### 框架
-![My Skills](https://skillicons.dev/icons?i=spring,laravel,go,vite,vue,react,flutter,nginx,nodejs,tailwind)
+![My Skills](https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake)
 
 ### 工具
-![My Skills](https://skillicons.dev/icons?i=maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake)
-
-### 开发工具
-![My Skills](https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure)
-
-### 操作系统
-![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali)
+![My Skills](https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali)
 
 ### 自述
 
