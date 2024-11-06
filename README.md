@@ -14,8 +14,25 @@
 
 ## 关于我
 
-你好哦，我是XiaoLFeng（你可以叫我“筱锋”），目前是一名学生，正在积极学习并迈向软件工程师的目标。我对软件工程充满热情，专注于前端开发、后端开发、全栈开发以及项目设计等方向。平时喜欢探索新技术，解决复杂问题。我常用 Java、Go、Js/Ts、Kotlin、PHP、HTML、CSS 等语言进行开发，也熟悉 Spring系、GoFrame、Gin、Laravel、Vue 和 React 等开发框架。
+> 你好哦，我是XiaoLFeng（你可以叫我“筱锋”），目前是一名学生，正在积极学习并迈向软件工程师的目标。我对软件工程充满热情，专注于前端开发、后端开发、全栈开发以及项目设计等方向。平时喜欢探索新技术，解决复杂问题。
 
+### 技术栈
+![My Skills](https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex)
+
+
+### 框架
+![My Skills](https://skillicons.dev/icons?i=spring,laravel,go,vite,vue,react,flutter,nginx,nodejs,tailwind)
+
+### 工具
+![My Skills](https://skillicons.dev/icons?i=maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake)
+
+### 开发工具
+![My Skills](https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure)
+
+### 操作系统
+![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali)
+
+### 自述
 
 - 🎮 我热衷于玩策略和管理类游戏，比如《迷你空管》、《迷你高速公路》和《铁路调度模拟器》等游戏（但不是游戏爱好者）。
 - 🎵 开发时我喜欢听轻音乐，平时也会听 ACG 音乐。我是个普通的二次元，比较喜欢东方Project，博麗霊夢は大すきだ!!!
