@@ -38,6 +38,9 @@
 - ✈ Twitter：[筱锋xiao_lfeng](https://twitter.com/lfeng_xiao)
 - 🐧 QQ: 1144939537
 
+## 成就
+
+![Github Achievements](metrics.plugin.achievements.compact.svg)
 
 ## 我的进度
 
