@@ -25,7 +25,7 @@
 <img align="left" width="400" alt="🦑" src="metrics.classic.svg">
 <img align="right" width="400" alt="🦑" src="metrics.plugin.wakatime.svg">
 <img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
-<div align="right" width="400">
+<div align="right" width="390">
     <img alt="🦑" src="metrics.plugin.people.followers.svg">
     <img alt="🦑" src="metrics.plugin.achievements.compact.svg">
 </div>
