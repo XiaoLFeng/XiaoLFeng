@@ -1,8 +1,8 @@
+<h1 align="left">🖐️ 你好哦~</h1>
+
 <div align="right">
     <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 50px">
 </div>
-
-<h1 align="left">🖐️ 你好哦~</h1>
 
 <div align="center">
     <a href="https://blog.x-lf.com">我的博客</a>
@@ -25,10 +25,10 @@
 <img align="left" width="400" alt="🦑" src="metrics.classic.svg">
 <img align="right" width="400" alt="🦑" src="metrics.plugin.wakatime.svg">
 <img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
-<img align="right" width="400" alt="🦑" src="metrics.plugin.people.followers.svg">
-<img align="right" width="400" alt="🦑" src="metrics.plugin.achievements.compact.svg">
-
-<br/>
+<div align="right" width="400">
+    <img alt="🦑" src="metrics.plugin.people.followers.svg">
+    <img alt="🦑" src="metrics.plugin.achievements.compact.svg">
+</div>
 
 <h3 align="left">技术栈</h3>
 
@@ -61,10 +61,11 @@
     </ul>
 </div>
 
-## 我的进度
+<h2 align="center">我的进度</h2>
 
 <div align="center">
     <img src="https://api.githubtrends.io/user/svg/XiaoLFeng/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="height: 200px">
     <img src="https://github-readme-stats.vercel.app/api?username=XiaoLFeng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 200px">
 </div>
-<div align="left">欢迎浏览我的GitHub，🍀如果您对我的代码有兴趣，可以跟我一起进行开发喔！</div>
+
+<p align="center">欢迎浏览我的GitHub，🍀如果您对我的代码有兴趣，可以跟我一起进行开发喔！</p>
