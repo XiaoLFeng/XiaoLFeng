@@ -22,9 +22,9 @@
     你好哦，我是XiaoLFeng（你可以叫我“筱锋”），目前是一名学生，正在积极学习并迈向软件工程师的目标。我对软件工程充满热情，专注于前端开发、后端开发、全栈开发以及项目设计等方向。平时喜欢探索新技术，解决复杂问题。
 </blockquote>
 
-<img align="left" width="400" alt="🦑" src="metrics.classic.svg">
-<img align="right" width="400" alt="🦑" src="metrics.plugin.wakatime.svg">
-<img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
+<img align="left" width="390" alt="🦑" src="metrics.classic.svg">
+<img align="right" width="390" alt="🦑" src="metrics.plugin.wakatime.svg">
+<img align="left" width="390" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
 <div align="right" width="390">
     <img alt="🦑" src="metrics.plugin.people.followers.svg">
     <img alt="🦑" src="metrics.plugin.achievements.compact.svg">
@@ -32,8 +32,8 @@
 
 <h3 align="left">技术栈</h3>
 
-<img align="left" width="400" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake&perline=15">
-<img align="right" width="400" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali&perline=15">
+<img align="left" width="390" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake&perline=15">
+<img align="right" width="390" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali&perline=15">
 
 <br/>
 
