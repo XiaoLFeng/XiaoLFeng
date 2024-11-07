@@ -16,11 +16,11 @@
 
 <div align="center">
     <img align="left" width="390" alt="🦑" src="metrics.classic.svg">
-    <img align="right" width="390" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
+    <img align="right" width="390" alt="🦑" src="metrics.plugin.wakatime.svg">
 </div>
 <div align="center">
-    <img align="left" width="390" alt="🦑" src="metrics.plugin.people.followers.svg">
-    <img align="right" width="390" alt="🦑" src="metrics.plugin.wakatime.svg">
+    <img align="left" width="390" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
+    <img align="right" width="390" alt="🦑" src="metrics.plugin.people.followers.svg">
 </div>
 
 ### 技术栈
