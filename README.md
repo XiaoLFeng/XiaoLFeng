@@ -1,6 +1,10 @@
-<h1>🖐️ 你好哦~</h1>
+<div align="right">
+    <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 50px">
+</div>
 
-<div align="left">
+<h1 align="left">🖐️ 你好哦~</h1>
+
+<div align="center">
     <a href="https://blog.x-lf.com">我的博客</a>
     <span>|</span>
     <a href="https://git-fy.cn/XiaoLFeng">组织仓库</a>
@@ -10,9 +14,6 @@
     <a href="https://t.me/xf_talk">纸飞机群</a>
     <span>|</span>
     <a href="https://qm.qq.com/cgi-bin/qm/qr?k=viCI56D_CRmtKMQZVzKCm9Rhy_0KUwVQ&jump_from=webapi">扣扣群聊</a>
-</div>
-<div align="right">
-    <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 50px">
 </div>
 
 <h2 align="left">关于我</h2>
@@ -24,13 +25,13 @@
 <img align="left" width="400" alt="🦑" src="metrics.classic.svg">
 <img align="right" width="400" alt="🦑" src="metrics.plugin.wakatime.svg">
 <img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
-<img align="center" width="400" alt="🦑" src="metrics.plugin.people.followers.svg">
+<img align="right" width="400" alt="🦑" src="metrics.plugin.people.followers.svg">
 <img align="right" width="400" alt="🦑" src="metrics.plugin.achievements.compact.svg">
 
 <h3 align="left">技术栈</h3>
 
-<img align="left" width="390" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake&perline=15">
-<img align="right" width="390" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali&perline=15">
+<img align="left" width="400" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake&perline=15">
+<img align="right" width="400" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali&perline=15">
 
 <h3 align="left">自述</h3>
 
