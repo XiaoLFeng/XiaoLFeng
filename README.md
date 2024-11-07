@@ -21,6 +21,7 @@
 <div align="center">
     <img align="left" width="390" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
     <img align="right" width="390" alt="🦑" src="metrics.plugin.people.followers.svg">
+    <img align="right" width="390" alt="🦑" src="metrics.plugin.achievements.compact.svg">
 </div>
 
 ### 技术栈
@@ -43,10 +44,6 @@
 - ✉️ Email：[gm@x-lf.cn](mailto:gm@x-lf.cn)
 - ✈ Twitter：[筱锋xiao_lfeng](https://twitter.com/lfeng_xiao)
 - 🐧 QQ: 1144939537
-
-## 成就
-
-![Github Achievements](metrics.plugin.achievements.compact.svg)
 
 ## 我的进度
 
