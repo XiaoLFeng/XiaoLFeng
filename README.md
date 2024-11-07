@@ -1,7 +1,7 @@
 <h1 align="left">🖐️ 你好哦~</h1>
 
 <div align="right">
-    <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 80px">
+    <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 65px">
 </div>
 
 <div align="center">
