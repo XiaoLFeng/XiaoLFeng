@@ -1,7 +1,7 @@
 <h1 align="left">🖐️ 你好哦~</h1>
 
 <div align="right">
-    <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 50px">
+    <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 80px">
 </div>
 
 <div align="center">
@@ -32,10 +32,10 @@
 
 <h3 align="left">技术栈</h3>
 
-<img align="left" width="400" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake&perline=15">
-<img align="right" width="400" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali&perline=15">
-
-<br/>
+<div align="center" style="width: 100%">
+    <img align="left" width="400" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake&perline=15">
+    <img align="right" width="400" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali&perline=15">
+</div>
 
 <h3 align="left">自述</h3>
 
