@@ -1,4 +1,4 @@
-name: Create Achievement Image
+name: 生成 GITHUB PROFILE 图片
 on:
   push:
     branches: [ master ]
