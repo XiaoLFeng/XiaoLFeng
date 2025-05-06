@@ -14,15 +14,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Licenses and permissions
+      - name: Compact display
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.licenses.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
