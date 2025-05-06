@@ -27,7 +27,7 @@
 <img align="left" width="400" alt="🦑" src="metrics.plugin.isocalendar.fullyear.svg">
 <div align="right" width="400">
     <img width="400" alt="🦑" src="metrics.plugin.people.followers.svg">
-    <img width="400" alt="🦑" src="metrics.plugin.achievements.compact.svg">
+    <img width="400" alt="🦑" src="metrics.plugin.licenses.svg">
 </div>
 
 <h3 align="left">技术栈</h3>
