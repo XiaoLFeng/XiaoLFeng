@@ -16,6 +16,7 @@ jobs:
     steps:
       - name: Licenses and permissions
         with:
+          filename: metrics.plugin.licenses.svg
           repo: metrics
           plugin_licenses: yes
           plugin_licenses_setup: npm ci
