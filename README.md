@@ -7,7 +7,7 @@
 <div align="center">
     <a href="https://blog.x-lf.com">My Blog</a>
     <span>|</span>
-    <a href="https://space.bilibili.com/244321572">Bilibili</a>
+    <a href="https://space.bilibili.com/244321572">My Bilibili</a>
     <span>|</span>
     <a href="https://t.me/xf_talk">Telegram Group</a>
     <span>|</span>
@@ -17,7 +17,7 @@
 <h2 align="left">About Me</h2>
 
 <blockquote>
-    Hello! I'm XiaoLFeng (you can call me "Xiao Feng"), currently a student actively learning and working towards becoming a software engineer. I'm passionate about software engineering, focusing on frontend development, backend development, full-stack development, and project design. I enjoy exploring new technologies and solving complex problems in my spare time.
+    Hello! I'm XiaoLFeng (you can call me "筱锋"), currently a senior year student actively learning and working towards becoming a senior software engineer. I'm passionate about software engineering, specializing in frontend development, backend development, full-stack development, and project architecture design. I enjoy exploring cutting-edge technologies and tackling complex technical challenges in my spare time.
 </blockquote>
 
 <img align="left" width="400" alt="🦑" src="metrics.classic.svg">
