@@ -44,7 +44,7 @@
         <li>👨‍💻 Currently working at (sorry, still studying at university).</li>
         <li>📚 In my spare time, I love reading tech blogs to enhance my technical skills.</li>
         <li>🌱 Currently learning Golang (Gin framework and GoFrame framework).</li>
-        <li>🅱️ This is my blog <a href="https://blog.x-lf.com/">凌中的锋雨 (Wind and Rain in the Ridge)</a>, welcome to exchange friendly links~</li>
+        <li>🅱️ This is my blog <a href="https://blog.x-lf.com/">凌中的锋雨</a>, welcome to exchange friendly links~</li>
         <li>🏢 Senior year student, working hard to learn and hoping to find a great job in the future.</li>
     </ul>
 </div>
