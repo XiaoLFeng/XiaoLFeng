@@ -41,7 +41,7 @@
     <ul>
         <li>🎮 I'm passionate about strategy and management games, such as "A Dance of Fire and Ice", "Mindustry", and "Rail Route" etc.</li>
         <li>🎵 I enjoy listening to light music while coding, and I also listen to ACG music in my daily life. I'm an ordinary otaku who particularly loves Touhou Project. Hakurei Reimu wa daisuki da!!!</li>
-        <li>👨‍💻 Currently working at (sorry, still studying at university).</li>
+        <li>👨‍💻 Currently working at Shenzhen artificial intelligence related companies.</li>
         <li>📚 In my spare time, I love reading tech blogs to enhance my technical skills.</li>
         <li>🌱 Currently learning Golang (Gin framework and GoFrame framework).</li>
         <li>🅱️ This is my blog <a href="https://blog.x-lf.com/">凌中的锋雨</a>, welcome to exchange friendly links~</li>
