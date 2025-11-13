@@ -1,23 +1,23 @@
-<h1 align="left">🖐️ Hello There~</h1>
+<h1 align="left">🖐️ 你好呀~</h1>
 
 <div align="right">
     <img src="https://api.moedog.org/count/@XiaoLFeng.readme" style="height: 65px">
 </div>
 
 <div align="center">
-    <a href="https://blog.x-lf.com">My Blog</a>
+    <a href="https://blog.x-lf.com">我的博客</a>
     <span>|</span>
-    <a href="https://space.bilibili.com/244321572">My Bilibili</a>
+    <a href="https://space.bilibili.com/244321572">我的 B 站</a>
     <span>|</span>
-    <a href="https://t.me/xf_talk">Telegram Group</a>
+    <a href="https://t.me/xf_talk">Telegram 群组</a>
     <span>|</span>
-    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=viCI56D_CRmtKMQZVzKCm9Rhy_0KUwVQ&jump_from=webapi">QQ Group</a>
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=viCI56D_CRmtKMQZVzKCm9Rhy_0KUwVQ&jump_from=webapi">QQ 群</a>
 </div>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">关于我</h2>
 
 <blockquote>
-    Hello! I'm XiaoLFeng (you can call me "筱锋"), currently a senior year student actively learning and working towards becoming a senior software engineer. I'm passionate about software engineering, specializing in frontend development, backend development, full-stack development, and project architecture design. I enjoy exploring cutting-edge technologies and tackling complex technical challenges in my spare time.
+    嘿嘿~ 你好！我是筱锋（XiaoLFeng / xiao_lfeng），目前是一名大四学生，正在努力学习并朝着成为高级软件工程师的目标前进！我对软件工程充满热情，专注于前端开发、后端开发、全栈开发以及项目架构设计。闲暇时间喜欢探索前沿技术，挑战各种复杂的技术难题~ ✨
 </blockquote>
 
 <img align="left" width="400" alt="🦑" src="metrics.classic.svg">
@@ -28,42 +28,42 @@
     <img width="400" alt="🦑" src="metrics.plugin.steam.svg">
 </div>
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">技术栈</h3>
 
 <img align="left" width="400" height="125" alt="🦑" src="https://skillicons.dev/icons?i=java,go,ts,js,html,css,dart,kotlin,php,py,c,cpp,md,latex,spring,laravel,vite,vue,react,flutter,nginx,nodejs,tailwind,maven,npm,gradle,vim,sqlite,mysql,postgres,rabbitmq,kubernetes,jquery,jenkins,cmake&perline=12">
 <img align="left" width="400" height="125" alt="🦑" src="https://skillicons.dev/icons?i=idea,webstorm,clion,phpstorm,pycharm,androidstudio,docker,visualstudio,vscode,eclipse,arduino,postman,anaconda,obsidian,github,gitlab,grafana,git,githubactions,cloudflare,vercel,azure,apple,windows,linux,ubuntu,redhat,debian,arch,raspberrypi,kali&perline=12">
 
 ***
 
-<h3 align="left">About Myself</h3>
+<h3 align="left">更多关于我</h3>
 
 <div align="left">
     <ul>
-        <li>🎮 I'm passionate about strategy and management games, such as "A Dance of Fire and Ice", "Mindustry", and "Rail Route" etc.</li>
-        <li>🎵 I enjoy listening to light music while coding, and I also listen to ACG music in my daily life. I'm an ordinary otaku who particularly loves Touhou Project. Hakurei Reimu wa daisuki da!!!</li>
-        <li>👨‍💻 Currently working at Shenzhen artificial intelligence related companies.</li>
-        <li>📚 In my spare time, I love reading tech blogs to enhance my technical skills.</li>
-        <li>🌱 Currently learning Golang (Gin framework and GoFrame framework).</li>
-        <li>🅱️ This is my blog <a href="https://blog.x-lf.com/">凌中的锋雨</a>, welcome to exchange friendly links~</li>
-        <li>🏢 Senior year student, working hard to learn and hoping to find a great job in the future.</li>
+        <li>🎮 热爱策略和经营类游戏，比如《冰与火之舞》《异星工厂》《铁路线路》等等~</li>
+        <li>🎵 写代码的时候喜欢听轻音乐，日常生活中也经常听 ACG 音乐。我是个普通的宅宅，特别喜欢东方 Project！博丽灵梦大好き！！！</li>
+        <li>👨‍💻 目前在深圳的人工智能相关公司工作中~</li>
+        <li>📚 闲暇时间喜欢阅读技术博客，不断提升自己的技术水平！</li>
+        <li>🌱 正在学习 Golang（Gin 框架和 GoFrame 框架）</li>
+        <li>🅱️ 这是我的博客 <a href="https://blog.x-lf.com/">凌中的锋雨</a>，欢迎交换友链哦~</li>
+        <li>🏢 大四学生一枚，正在努力学习，希望未来能找到一份很棒的工作！</li>
     </ul>
 </div>
 
-<h2 align="left">Contact Me</h2>
+<h2 align="left">联系我</h2>
 
 <div align="left">
     <ul>
-        <li>✉️ Email：<a href="mailto:gm@x-lf.cn">gm@x-lf.cn</a></li>
+        <li>✉️ 邮箱：<a href="mailto:gm@x-lf.cn">gm@x-lf.cn</a></li>
         <li>✈ Twitter：<a href="https://twitter.com/lfeng_xiao">筱锋xiao_lfeng</a></li>
         <li>🐧 QQ: 1144939537</li>
     </ul>
 </div>
 
-<h2 align="center">My Progress</h2>
+<h2 align="center">我的进展</h2>
 
 <div align="center">
-    <img src="https://api.githubtrends.io/user/svg/XiaoLFeng/langs?time_range=one_year&include_private=True&compact=True&theme=classic" style="height: 200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoLFeng&layout=compact&hide=php,javascript,css" style="height: 200px">
     <img src="https://github-readme-stats.vercel.app/api?username=XiaoLFeng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 200px">
 </div>
 
-<p align="center">Welcome to browse my GitHub! 🍀 If you're interested in my code, feel free to collaborate with me on development!</p>
+<p align="center">欢迎来到我的 GitHub！🍀 如果你对我的代码感兴趣，欢迎一起合作开发哦~</p>
