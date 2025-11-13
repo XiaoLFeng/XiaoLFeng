@@ -62,8 +62,8 @@
 <h2 align="center">我的进展</h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoLFeng&layout=compact&hide=php,javascript,css" style="height: 200px">
-    <img src="https://github-readme-stats.vercel.app/api?username=XiaoLFeng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoLFeng&layout=compact&hide=php,javascript,css" style="height: 180px">
+    <img src="https://github-readme-stats.vercel.app/api?username=XiaoLFeng&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" style="height: 180px">
 </div>
 
 <p align="center">欢迎来到我的 GitHub！🍀 如果你对我的代码感兴趣，欢迎一起合作开发哦~</p>
