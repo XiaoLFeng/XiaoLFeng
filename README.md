@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://waka.x-lf.com/api/badge/xiao_lfeng/interval:today?label=today" alt="wakatime today"/>
+    <img src="https://img.shields.io/endpoint?url=https://waka.x-lf.com/api/compat/shields/v1/xiao_lfeng/interval:today&label=%E4%BB%8A%E6%97%A5%E7%A0%81%E5%AD%97&color=blue" alt="wakatime today"/>
 </div>
 
 <div align="center">
